@@ -4,7 +4,7 @@ For the basic Spot it! game, reveal one card, then another. Whoever spots the sy
 
 Dobble (also called Spot It!), is a card game that uses special circular cards, each with a number (8 in the standard pack, 6 in the kids pack) of symbols or image. There are various ways to play, but they all the games involve finding which symbol is common to two cards. The cards are designed so that any two cards will always have one symbol in common.
 
-This got us wondering: how you could design a deck that way?
+## This got us wondering: how you could design a deck that way?
 
 Three Dobble for kids cards
 More formally:
